@@ -3,25 +3,20 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Welcome to my page, where I will be sharing all of my projects with _you guys. _I do this all mostly for fun, but also to learn a whole lot while I’m at it. Knowing me, most of these blog posts will be full of different **issues** I encounter, the stress incurred while facing them, and how after many tries I will finally be able to  _“slay the dragon_”, or so to speak. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Some of the points I’ll be covering in this blog are:
 
-More specifically, the created site:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+* **Virtual Machines**
+* **Building Computers**
+* **SIEM management**
+* **Red Teaming**
+* **Blue Teaming**
+* **And many more!**
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+So I hope you have **fun** while reading these posts, but I also hope a good chunk of you are able to learn something from these as well. We won’t be perfect and able to solve any problem, that takes a whole lot of **learning** and **experience**, and it's something we can work towards together. 
 
 ----
 
