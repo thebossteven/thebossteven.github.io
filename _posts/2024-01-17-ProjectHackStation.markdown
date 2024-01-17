@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project: Hack Station pt.1
+title: Project Hack Station pt.1
 ---
 #**Project: Creating a mini hacking station on the Raspberry Pi**
 
