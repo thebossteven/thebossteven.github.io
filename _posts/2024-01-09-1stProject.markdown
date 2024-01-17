@@ -1,0 +1,7 @@
+---
+layout: post
+title: 1st Project
+---
+# 1st project: Creating a Jekyll-based page:
+
+I needed a platform to post all these ideas for projects, try them out and publish my learning (if any at all) to the wide web. I immediately thought of using github pages and jekyll, as this seemed like the more &lt;techy> route for me to take. Obviously I must not love myself very much, as this meant running my head against the wall at numerous points.
