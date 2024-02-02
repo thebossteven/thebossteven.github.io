@@ -8,12 +8,13 @@ Welcome to my page, where I will be sharing all of my projects with _you guys. _
 Some of the points I’ll be covering in this blog are:
 
 
-
 * **Virtual Machines**
 * **Building Computers**
+* **Programming Languages**
 * **SIEM management**
-* **Red Teaming**
-* **Blue Teaming**
+* **Web development**
+* **Game creation**
+* **Operating systems**
 * **And many more!**
 
 So I hope you have **fun** while reading these posts, but I also hope a good chunk of you are able to learn something from these as well. We won’t be perfect and able to solve any problem, that takes a whole lot of **learning** and **experience**, and it's something we can work towards together. 
